@@ -5,7 +5,6 @@ const Vote = () => {
 
   return (
     <div>
-      
       <button class="button is-warning" onClick={() => setVoteCount(voteCount + 1)}>
         Upvote
       </button>
